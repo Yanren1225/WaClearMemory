@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:gravity="center">
+
+	<Button
+		style="?android:attr/buttonBarButtonStyle"
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:text="点击开始清理\n清理完毕后会自动关闭app"
+		android:id="@+id/clear"
+		android:layout_gravity="center"/>
+
+	<TextView
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:text="酷安@汝南京"
+		android:layout_gravity="bottom|center_horizontal"/>
+
+</LinearLayout>
+
