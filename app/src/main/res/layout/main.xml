@@ -10,7 +10,7 @@
 		style="?android:attr/buttonBarButtonStyle"
 		android:layout_height="wrap_content"
 		android:layout_width="wrap_content"
-		android:text="点击开始清理\n清理完毕后会自动关闭app"
+		android:text="点击开始释放\n释放过程中不要有任何操作\n释放完毕后会自动关闭app"
 		android:id="@+id/clear"
 		android:layout_gravity="center"/>
 

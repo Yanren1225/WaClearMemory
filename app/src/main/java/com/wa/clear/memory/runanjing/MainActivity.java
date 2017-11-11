@@ -22,7 +22,7 @@ public class MainActivity extends Activity
 				@Override
 				public void onClick(View p1)
 				{
-					for (int i = 0; i <= 500; i++)
+					for (int i = 0; i <= 3000; i++)
 					{
 						xh_pDialog = new ProgressDialog(MainActivity.this);  
 						xh_pDialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);  
